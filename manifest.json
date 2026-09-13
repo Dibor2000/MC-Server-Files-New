@@ -1,0 +1,584 @@
+{
+    "files": [
+        {
+            "path": "mods/accessories-fabric-1.1.0-beta.53+1.21.1.jar",
+            "hash": "1f332447eadf66a07b33e641816fcd5e",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/accessories-fabric-1.1.0-beta.53+1.21.1.jar"
+        },
+        {
+            "path": "mods/architectury-13.0.11-fabric.jar",
+            "hash": "5d7a93f9b84d8facf6a7d7a51d71158b",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/architectury-13.0.11-fabric.jar"
+        },
+        {
+            "path": "mods/athena-fabric-1.21.1-4.0.6.jar",
+            "hash": "a549af3b3a32722ab81ff11d9f44f90b",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/athena-fabric-1.21.1-4.0.6.jar"
+        },
+        {
+            "path": "mods/BiomesOPlenty-fabric-1.21.1-21.1.0.14.jar",
+            "hash": "15976a65706b403c166e75d3afa7d616",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/BiomesOPlenty-fabric-1.21.1-21.1.0.14.jar"
+        },
+        {
+            "path": "mods/capturexp-fabric-1.8.0-1.3.0.jar",
+            "hash": "d5ebea7a34439430fb52dfe8bb12e2c1",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/capturexp-fabric-1.8.0-1.3.0.jar"
+        },
+        {
+            "path": "mods/chat_heads-0.15.7-fabric-1.21.jar",
+            "hash": "94422ae39ff5ad7c6da661fffa61cb50",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/chat_heads-0.15.7-fabric-1.21.jar"
+        },
+        {
+            "path": "mods/chipped-fabric-1.21.1-4.0.2.jar",
+            "hash": "c98271e7ba961e78e4a589fc53fa71a2",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/chipped-fabric-1.21.1-4.0.2.jar"
+        },
+        {
+            "path": "mods/Clumps-fabric-1.21.1-19.0.0.1.jar",
+            "hash": "8715713c6b63565a5eafb4c925275035",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/Clumps-fabric-1.21.1-19.0.0.1.jar"
+        },
+        {
+            "path": "mods/cobble-caf-forms-5.0.0.jar",
+            "hash": "23a4c8291963bd9ee05c45d1cf779bcb",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobble-caf-forms-5.0.0.jar"
+        },
+        {
+            "path": "mods/CobbleDollars-fabric-2.0.0+Beta-6.1+1.21.1(1).jar",
+            "hash": "2753484b291bb6f5a5b284cd7d97b934",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/CobbleDollars-fabric-2.0.0+Beta-6.1+1.21.1(1).jar"
+        },
+        {
+            "path": "mods/CobbleDollars-fabric-2.0.0+Beta-6.1+1.21.1.jar",
+            "hash": "2753484b291bb6f5a5b284cd7d97b934",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/CobbleDollars-fabric-2.0.0+Beta-6.1+1.21.1.jar"
+        },
+        {
+            "path": "mods/cobblemon-additions-4.3.0.jar",
+            "hash": "95271256e456dd846ac4587f6f46b5bf",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobblemon-additions-4.3.0.jar"
+        },
+        {
+            "path": "mods/cobblemon-battle-extras-fabric-1.13.45.jar",
+            "hash": "dbf09923dc28a0339c5c5bb7eae9061d",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobblemon-battle-extras-fabric-1.13.45.jar"
+        },
+        {
+            "path": "mods/Cobblemon-fabric-1.8.0+1.21.1.jar",
+            "hash": "91f78e096f45659e744fd888370ea75b",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/Cobblemon-fabric-1.8.0+1.21.1.jar"
+        },
+        {
+            "path": "mods/cobblemon-trainer-battle-1.11.13+1.8.0.jar",
+            "hash": "51b08deb02e8f3f5912e77341a945a4b",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobblemon-trainer-battle-1.11.13+1.8.0.jar"
+        },
+        {
+            "path": "mods/cobblenav-fabric-2.4.1.jar",
+            "hash": "0b177285713feaa8e2671299b132941a",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobblenav-fabric-2.4.1.jar"
+        },
+        {
+            "path": "mods/easyauth-mc1.21-3.4.4.jar",
+            "hash": "7965554735f197139cc94c8184b20557",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/easyauth-mc1.21-3.4.4.jar"
+        },
+        {
+            "path": "mods/fabric-api-0.116.17+1.21.1.jar",
+            "hash": "e027a4f5fcf21ee26fa48de7e7033c2b",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/fabric-api-0.116.17+1.21.1.jar"
+        },
+        {
+            "path": "mods/fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar",
+            "hash": "dd78dcb947b56090b41f943a7cc45da8",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar"
+        },
+        {
+            "path": "mods/factions-mc1.21-2.8.0.jar",
+            "hash": "137cf28f4541fe1c6d96a00eb006ffd8",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/factions-mc1.21-2.8.0.jar"
+        },
+        {
+            "path": "mods/fightorflight-fabric-0.11.0.jar",
+            "hash": "4b5e93bbdc4f6e970de784fa3a01058e",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/fightorflight-fabric-0.11.0.jar"
+        },
+        {
+            "path": "mods/ForgeConfigAPIPort-v21.0.3-1.21-Fabric.jar",
+            "hash": "271ade40217783a5ccfb288f966b30e2",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/ForgeConfigAPIPort-v21.0.3-1.21-Fabric.jar"
+        },
+        {
+            "path": "mods/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
+            "hash": "eba1a7f9d9976e983a2b9eb5e915e087",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar"
+        },
+        {
+            "path": "mods/geckolib-fabric-1.21.1-4.9.2.jar",
+            "hash": "fe791e7b10c8b7c736ea3e57747eac09",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/geckolib-fabric-1.21.1-4.9.2.jar"
+        },
+        {
+            "path": "mods/GlitchCore-fabric-1.21.1-2.1.0.2.jar",
+            "hash": "5ec4af3c719d3bced47491f7bc2f332c",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/GlitchCore-fabric-1.21.1-2.1.0.2.jar"
+        },
+        {
+            "path": "mods/graves-3.4.4+1.21.jar",
+            "hash": "d4108eec58cc5090fe7905170ce8f46d",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/graves-3.4.4+1.21.jar"
+        },
+        {
+            "path": "mods/jei-1.21.1-fabric-19.51.0.418.jar",
+            "hash": "e1f77cb31adcd3061008f96c19f1ec51",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/jei-1.21.1-fabric-19.51.0.418.jar"
+        },
+        {
+            "path": "mods/JourneyFactions-mc1.21.1-1.0.0.jar",
+            "hash": "58c2540a8f95f163b3737270a0b5478a",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/JourneyFactions-mc1.21.1-1.0.0.jar"
+        },
+        {
+            "path": "mods/journeymap-fabric-1.21-6.0.0-beta.13.jar",
+            "hash": "739dbfaf653cfbf84ca20b3240446f3d",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/journeymap-fabric-1.21-6.0.0-beta.13.jar"
+        },
+        {
+            "path": "mods/journeymap-fabric-1.21.1-6.0.8.jar",
+            "hash": "2cee35cc396eb791ffaef72c7b52501f",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/journeymap-fabric-1.21.1-6.0.8.jar"
+        },
+        {
+            "path": "mods/lambdynamiclights-4.8.11+1.21.1.jar",
+            "hash": "fc7e8b48d98bc94025ea70c1ed441b2f",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/lambdynamiclights-4.8.11+1.21.1.jar"
+        },
+        {
+            "path": "mods/legendarymonuments-fabric-1.21.1-8.1-Love_for_All.jar",
+            "hash": "9149046c2ffb82dca713616ea4739fe1",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/legendarymonuments-fabric-1.21.1-8.1-Love_for_All.jar"
+        },
+        {
+            "path": "mods/lithostitched-1.8.0+beta6-fabric-21.1.jar",
+            "hash": "35081d1e23ab374e8a07f7b26f80b689",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/lithostitched-1.8.0+beta6-fabric-21.1.jar"
+        },
+        {
+            "path": "mods/mega_showdown-fabric-1.0.2+1.8+1.21.1-release.jar",
+            "hash": "4d4523c494049106995b2ca9a9f875a1",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/mega_showdown-fabric-1.0.2+1.8+1.21.1-release.jar"
+        },
+        {
+            "path": "mods/missingmons-cobblemon-3.6.1.jar",
+            "hash": "9bc9dbbf62d7002464867d9c4434cd15",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/missingmons-cobblemon-3.6.1.jar"
+        },
+        {
+            "path": "mods/notenoughanimations-fabric-1.12.4-mc1.21.1.jar",
+            "hash": "6afb17a78bec2140a3904dcd6d1a3d92",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/notenoughanimations-fabric-1.12.4-mc1.21.1.jar"
+        },
+        {
+            "path": "mods/owo-lib-0.13.0-alpha.15+1.21.jar",
+            "hash": "a3eb2ecafeb4bc1fb453b13cb43a12c1",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/owo-lib-0.13.0-alpha.15+1.21.jar"
+        },
+        {
+            "path": "mods/playerxp-fabric-1.1.2+1.21.1.jar",
+            "hash": "208b2659e1271f5cd76409f1ac686c05",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/playerxp-fabric-1.1.2+1.21.1.jar"
+        },
+        {
+            "path": "mods/polymer-bundled-0.9.19+1.21.1.jar",
+            "hash": "abb2034b3f2d9c59819249458eb1c0f3",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/polymer-bundled-0.9.19+1.21.1.jar"
+        },
+        {
+            "path": "mods/PresenceFootsteps-1.11.2+1.21.jar",
+            "hash": "cf94f9107e5717c9af4fe21b28254df0",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/PresenceFootsteps-1.11.2+1.21.jar"
+        },
+        {
+            "path": "mods/Quick Skin - Fabric - 1.21.1-2.6.2.4.jar",
+            "hash": "3b441f86ffd042b3eb8b80aaf56e592f",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/Quick Skin - Fabric - 1.21.1-2.6.2.4.jar"
+        },
+        {
+            "path": "mods/rctapi-fabric-1.21.1-0.16.0-beta.jar",
+            "hash": "56f56b4b731c73bbcbe067aa4b58094a",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/rctapi-fabric-1.21.1-0.16.0-beta.jar"
+        },
+        {
+            "path": "mods/rctmod-fabric-1.21.1-0.19.0-beta.jar",
+            "hash": "7f1f4eb5c69269af9137715868d8c2c9",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/rctmod-fabric-1.21.1-0.19.0-beta.jar"
+        },
+        {
+            "path": "mods/resourcefullib-fabric-1.21-3.0.12.jar",
+            "hash": "89dac4248b76747800fbc00fa063825e",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/resourcefullib-fabric-1.21-3.0.12.jar"
+        },
+        {
+            "path": "mods/SafePastures-1.1.1+1.21.1.jar",
+            "hash": "af5597adebbfad7f73c01e118d93bf97",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/SafePastures-1.1.1+1.21.1.jar"
+        },
+        {
+            "path": "mods/SereneSeasons-fabric-1.21.1-10.1.0.9.jar",
+            "hash": "715f8290eb0b819bdecf601ce43708df",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/SereneSeasons-fabric-1.21.1-10.1.0.9.jar"
+        },
+        {
+            "path": "mods/shulkerboxtooltip-fabric-5.1.9+1.21.1.jar",
+            "hash": "79d01b3131d41091b3427367564a26e9",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/shulkerboxtooltip-fabric-5.1.9+1.21.1.jar"
+        },
+        {
+            "path": "mods/SimpleTMs-fabric-2.3.3.jar",
+            "hash": "9a9d474ca102e1d04fa89926fa837896",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/SimpleTMs-fabric-2.3.3.jar"
+        },
+        {
+            "path": "mods/skinlayers3d-fabric-1.11.2-mc1.21.1.jar",
+            "hash": "b5bcc7224d00acd14741d4c3a726b5a4",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/skinlayers3d-fabric-1.11.2-mc1.21.1.jar"
+        },
+        {
+            "path": "mods/skinrestorer-2.11.0+1.21-fabric.jar",
+            "hash": "174f49b8063c5c699dd08c0e84a2b64a",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/skinrestorer-2.11.0+1.21-fabric.jar"
+        },
+        {
+            "path": "mods/sodium-fabric-0.8.13+mc1.21.1.jar",
+            "hash": "5d9c08eefe9ea23cd5201e93332e3450",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/sodium-fabric-0.8.13+mc1.21.1.jar"
+        },
+        {
+            "path": "mods/sound-physics-remastered-fabric-1.21.1-1.4.10.jar",
+            "hash": "9920768591c7dfb41bc3cd3fd2393828",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/sound-physics-remastered-fabric-1.21.1-1.4.10.jar"
+        },
+        {
+            "path": "mods/TerraBlender-fabric-1.21.1-4.1.0.8.jar",
+            "hash": "c82218938313a31a2e7d55028fe97e3a",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/TerraBlender-fabric-1.21.1-4.1.0.8.jar"
+        },
+        {
+            "path": "mods/timcore-fabric-1.8.0-1.32.0.jar",
+            "hash": "ef752f8b0e861184f5471c9c46328c0b",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/timcore-fabric-1.8.0-1.32.0.jar"
+        },
+        {
+            "path": "mods/voicechat-fabric-1.21.1-2.6.22.jar",
+            "hash": "dccfc2a487792d2d52ca91d19b9d7f6d",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/voicechat-fabric-1.21.1-2.6.22.jar"
+        },
+        {
+            "path": "mods/yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
+            "hash": "aadf11f5a793296be7c195e1ca388492",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar"
+        },
+        {
+            "path": "mods/zoomify-2.15.2+1.21.1.jar",
+            "hash": "e3beea86fba08bffe61ccad28df6c676",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/zoomify-2.15.2+1.21.1.jar"
+        },
+        {
+            "path": "generate_manifest.py.py",
+            "hash": "f73801e36439e74773e45da1b7daec93",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/generate_manifest.py.py"
+        },
+        {
+            "path": "servers.dat",
+            "hash": "ab6b3c4f3fe1ae1234d4af39de81d609",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/servers.dat"
+        },
+        {
+            "path": "mods/accessories-fabric-1.1.0-beta.53+1.21.1.jar",
+            "hash": "1f332447eadf66a07b33e641816fcd5e",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/accessories-fabric-1.1.0-beta.53+1.21.1.jar"
+        },
+        {
+            "path": "mods/architectury-13.0.11-fabric.jar",
+            "hash": "5d7a93f9b84d8facf6a7d7a51d71158b",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/architectury-13.0.11-fabric.jar"
+        },
+        {
+            "path": "mods/athena-fabric-1.21.1-4.0.6.jar",
+            "hash": "a549af3b3a32722ab81ff11d9f44f90b",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/athena-fabric-1.21.1-4.0.6.jar"
+        },
+        {
+            "path": "mods/BiomesOPlenty-fabric-1.21.1-21.1.0.14.jar",
+            "hash": "15976a65706b403c166e75d3afa7d616",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/BiomesOPlenty-fabric-1.21.1-21.1.0.14.jar"
+        },
+        {
+            "path": "mods/capturexp-fabric-1.8.0-1.3.0.jar",
+            "hash": "d5ebea7a34439430fb52dfe8bb12e2c1",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/capturexp-fabric-1.8.0-1.3.0.jar"
+        },
+        {
+            "path": "mods/chat_heads-0.15.7-fabric-1.21.jar",
+            "hash": "94422ae39ff5ad7c6da661fffa61cb50",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/chat_heads-0.15.7-fabric-1.21.jar"
+        },
+        {
+            "path": "mods/chipped-fabric-1.21.1-4.0.2.jar",
+            "hash": "c98271e7ba961e78e4a589fc53fa71a2",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/chipped-fabric-1.21.1-4.0.2.jar"
+        },
+        {
+            "path": "mods/Clumps-fabric-1.21.1-19.0.0.1.jar",
+            "hash": "8715713c6b63565a5eafb4c925275035",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/Clumps-fabric-1.21.1-19.0.0.1.jar"
+        },
+        {
+            "path": "mods/cobble-caf-forms-5.0.0.jar",
+            "hash": "23a4c8291963bd9ee05c45d1cf779bcb",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobble-caf-forms-5.0.0.jar"
+        },
+        {
+            "path": "mods/CobbleDollars-fabric-2.0.0+Beta-6.1+1.21.1(1).jar",
+            "hash": "2753484b291bb6f5a5b284cd7d97b934",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/CobbleDollars-fabric-2.0.0+Beta-6.1+1.21.1(1).jar"
+        },
+        {
+            "path": "mods/CobbleDollars-fabric-2.0.0+Beta-6.1+1.21.1.jar",
+            "hash": "2753484b291bb6f5a5b284cd7d97b934",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/CobbleDollars-fabric-2.0.0+Beta-6.1+1.21.1.jar"
+        },
+        {
+            "path": "mods/cobblemon-additions-4.3.0.jar",
+            "hash": "95271256e456dd846ac4587f6f46b5bf",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobblemon-additions-4.3.0.jar"
+        },
+        {
+            "path": "mods/cobblemon-battle-extras-fabric-1.13.45.jar",
+            "hash": "dbf09923dc28a0339c5c5bb7eae9061d",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobblemon-battle-extras-fabric-1.13.45.jar"
+        },
+        {
+            "path": "mods/Cobblemon-fabric-1.8.0+1.21.1.jar",
+            "hash": "91f78e096f45659e744fd888370ea75b",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/Cobblemon-fabric-1.8.0+1.21.1.jar"
+        },
+        {
+            "path": "mods/cobblemon-trainer-battle-1.11.13+1.8.0.jar",
+            "hash": "51b08deb02e8f3f5912e77341a945a4b",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobblemon-trainer-battle-1.11.13+1.8.0.jar"
+        },
+        {
+            "path": "mods/cobblenav-fabric-2.4.1.jar",
+            "hash": "0b177285713feaa8e2671299b132941a",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobblenav-fabric-2.4.1.jar"
+        },
+        {
+            "path": "mods/easyauth-mc1.21-3.4.4.jar",
+            "hash": "7965554735f197139cc94c8184b20557",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/easyauth-mc1.21-3.4.4.jar"
+        },
+        {
+            "path": "mods/fabric-api-0.116.17+1.21.1.jar",
+            "hash": "e027a4f5fcf21ee26fa48de7e7033c2b",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/fabric-api-0.116.17+1.21.1.jar"
+        },
+        {
+            "path": "mods/fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar",
+            "hash": "dd78dcb947b56090b41f943a7cc45da8",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar"
+        },
+        {
+            "path": "mods/factions-mc1.21-2.8.0.jar",
+            "hash": "137cf28f4541fe1c6d96a00eb006ffd8",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/factions-mc1.21-2.8.0.jar"
+        },
+        {
+            "path": "mods/fightorflight-fabric-0.11.0.jar",
+            "hash": "4b5e93bbdc4f6e970de784fa3a01058e",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/fightorflight-fabric-0.11.0.jar"
+        },
+        {
+            "path": "mods/ForgeConfigAPIPort-v21.0.3-1.21-Fabric.jar",
+            "hash": "271ade40217783a5ccfb288f966b30e2",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/ForgeConfigAPIPort-v21.0.3-1.21-Fabric.jar"
+        },
+        {
+            "path": "mods/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
+            "hash": "eba1a7f9d9976e983a2b9eb5e915e087",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar"
+        },
+        {
+            "path": "mods/geckolib-fabric-1.21.1-4.9.2.jar",
+            "hash": "fe791e7b10c8b7c736ea3e57747eac09",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/geckolib-fabric-1.21.1-4.9.2.jar"
+        },
+        {
+            "path": "mods/GlitchCore-fabric-1.21.1-2.1.0.2.jar",
+            "hash": "5ec4af3c719d3bced47491f7bc2f332c",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/GlitchCore-fabric-1.21.1-2.1.0.2.jar"
+        },
+        {
+            "path": "mods/graves-3.4.4+1.21.jar",
+            "hash": "d4108eec58cc5090fe7905170ce8f46d",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/graves-3.4.4+1.21.jar"
+        },
+        {
+            "path": "mods/jei-1.21.1-fabric-19.51.0.418.jar",
+            "hash": "e1f77cb31adcd3061008f96c19f1ec51",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/jei-1.21.1-fabric-19.51.0.418.jar"
+        },
+        {
+            "path": "mods/JourneyFactions-mc1.21.1-1.0.0.jar",
+            "hash": "58c2540a8f95f163b3737270a0b5478a",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/JourneyFactions-mc1.21.1-1.0.0.jar"
+        },
+        {
+            "path": "mods/journeymap-fabric-1.21-6.0.0-beta.13.jar",
+            "hash": "739dbfaf653cfbf84ca20b3240446f3d",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/journeymap-fabric-1.21-6.0.0-beta.13.jar"
+        },
+        {
+            "path": "mods/journeymap-fabric-1.21.1-6.0.8.jar",
+            "hash": "2cee35cc396eb791ffaef72c7b52501f",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/journeymap-fabric-1.21.1-6.0.8.jar"
+        },
+        {
+            "path": "mods/lambdynamiclights-4.8.11+1.21.1.jar",
+            "hash": "fc7e8b48d98bc94025ea70c1ed441b2f",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/lambdynamiclights-4.8.11+1.21.1.jar"
+        },
+        {
+            "path": "mods/legendarymonuments-fabric-1.21.1-8.1-Love_for_All.jar",
+            "hash": "9149046c2ffb82dca713616ea4739fe1",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/legendarymonuments-fabric-1.21.1-8.1-Love_for_All.jar"
+        },
+        {
+            "path": "mods/lithostitched-1.8.0+beta6-fabric-21.1.jar",
+            "hash": "35081d1e23ab374e8a07f7b26f80b689",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/lithostitched-1.8.0+beta6-fabric-21.1.jar"
+        },
+        {
+            "path": "mods/mega_showdown-fabric-1.0.2+1.8+1.21.1-release.jar",
+            "hash": "4d4523c494049106995b2ca9a9f875a1",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/mega_showdown-fabric-1.0.2+1.8+1.21.1-release.jar"
+        },
+        {
+            "path": "mods/missingmons-cobblemon-3.6.1.jar",
+            "hash": "9bc9dbbf62d7002464867d9c4434cd15",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/missingmons-cobblemon-3.6.1.jar"
+        },
+        {
+            "path": "mods/notenoughanimations-fabric-1.12.4-mc1.21.1.jar",
+            "hash": "6afb17a78bec2140a3904dcd6d1a3d92",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/notenoughanimations-fabric-1.12.4-mc1.21.1.jar"
+        },
+        {
+            "path": "mods/owo-lib-0.13.0-alpha.15+1.21.jar",
+            "hash": "a3eb2ecafeb4bc1fb453b13cb43a12c1",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/owo-lib-0.13.0-alpha.15+1.21.jar"
+        },
+        {
+            "path": "mods/playerxp-fabric-1.1.2+1.21.1.jar",
+            "hash": "208b2659e1271f5cd76409f1ac686c05",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/playerxp-fabric-1.1.2+1.21.1.jar"
+        },
+        {
+            "path": "mods/polymer-bundled-0.9.19+1.21.1.jar",
+            "hash": "abb2034b3f2d9c59819249458eb1c0f3",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/polymer-bundled-0.9.19+1.21.1.jar"
+        },
+        {
+            "path": "mods/PresenceFootsteps-1.11.2+1.21.jar",
+            "hash": "cf94f9107e5717c9af4fe21b28254df0",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/PresenceFootsteps-1.11.2+1.21.jar"
+        },
+        {
+            "path": "mods/Quick Skin - Fabric - 1.21.1-2.6.2.4.jar",
+            "hash": "3b441f86ffd042b3eb8b80aaf56e592f",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/Quick Skin - Fabric - 1.21.1-2.6.2.4.jar"
+        },
+        {
+            "path": "mods/rctapi-fabric-1.21.1-0.16.0-beta.jar",
+            "hash": "56f56b4b731c73bbcbe067aa4b58094a",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/rctapi-fabric-1.21.1-0.16.0-beta.jar"
+        },
+        {
+            "path": "mods/rctmod-fabric-1.21.1-0.19.0-beta.jar",
+            "hash": "7f1f4eb5c69269af9137715868d8c2c9",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/rctmod-fabric-1.21.1-0.19.0-beta.jar"
+        },
+        {
+            "path": "mods/resourcefullib-fabric-1.21-3.0.12.jar",
+            "hash": "89dac4248b76747800fbc00fa063825e",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/resourcefullib-fabric-1.21-3.0.12.jar"
+        },
+        {
+            "path": "mods/SafePastures-1.1.1+1.21.1.jar",
+            "hash": "af5597adebbfad7f73c01e118d93bf97",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/SafePastures-1.1.1+1.21.1.jar"
+        },
+        {
+            "path": "mods/SereneSeasons-fabric-1.21.1-10.1.0.9.jar",
+            "hash": "715f8290eb0b819bdecf601ce43708df",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/SereneSeasons-fabric-1.21.1-10.1.0.9.jar"
+        },
+        {
+            "path": "mods/shulkerboxtooltip-fabric-5.1.9+1.21.1.jar",
+            "hash": "79d01b3131d41091b3427367564a26e9",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/shulkerboxtooltip-fabric-5.1.9+1.21.1.jar"
+        },
+        {
+            "path": "mods/SimpleTMs-fabric-2.3.3.jar",
+            "hash": "9a9d474ca102e1d04fa89926fa837896",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/SimpleTMs-fabric-2.3.3.jar"
+        },
+        {
+            "path": "mods/skinlayers3d-fabric-1.11.2-mc1.21.1.jar",
+            "hash": "b5bcc7224d00acd14741d4c3a726b5a4",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/skinlayers3d-fabric-1.11.2-mc1.21.1.jar"
+        },
+        {
+            "path": "mods/skinrestorer-2.11.0+1.21-fabric.jar",
+            "hash": "174f49b8063c5c699dd08c0e84a2b64a",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/skinrestorer-2.11.0+1.21-fabric.jar"
+        },
+        {
+            "path": "mods/sodium-fabric-0.8.13+mc1.21.1.jar",
+            "hash": "5d9c08eefe9ea23cd5201e93332e3450",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/sodium-fabric-0.8.13+mc1.21.1.jar"
+        },
+        {
+            "path": "mods/sound-physics-remastered-fabric-1.21.1-1.4.10.jar",
+            "hash": "9920768591c7dfb41bc3cd3fd2393828",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/sound-physics-remastered-fabric-1.21.1-1.4.10.jar"
+        },
+        {
+            "path": "mods/TerraBlender-fabric-1.21.1-4.1.0.8.jar",
+            "hash": "c82218938313a31a2e7d55028fe97e3a",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/TerraBlender-fabric-1.21.1-4.1.0.8.jar"
+        },
+        {
+            "path": "mods/timcore-fabric-1.8.0-1.32.0.jar",
+            "hash": "ef752f8b0e861184f5471c9c46328c0b",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/timcore-fabric-1.8.0-1.32.0.jar"
+        },
+        {
+            "path": "mods/voicechat-fabric-1.21.1-2.6.22.jar",
+            "hash": "dccfc2a487792d2d52ca91d19b9d7f6d",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/voicechat-fabric-1.21.1-2.6.22.jar"
+        },
+        {
+            "path": "mods/yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
+            "hash": "aadf11f5a793296be7c195e1ca388492",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar"
+        },
+        {
+            "path": "mods/zoomify-2.15.2+1.21.1.jar",
+            "hash": "e3beea86fba08bffe61ccad28df6c676",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/zoomify-2.15.2+1.21.1.jar"
+        }
+    ]
+}
