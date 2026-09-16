@@ -66,11 +66,6 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobblemon-battle-extras-fabric-1.13.45.jar"
         },
         {
-            "path": "mods/Cobblemon-fabric-1.8.0+1.21.1.jar",
-            "hash": "91f78e096f45659e744fd888370ea75b",
-            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/Cobblemon-fabric-1.8.0+1.21.1.jar"
-        },
-        {
             "path": "mods/cobblemon-trainer-battle-1.11.13+1.8.0.jar",
             "hash": "51b08deb02e8f3f5912e77341a945a4b",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobblemon-trainer-battle-1.11.13+1.8.0.jar"
@@ -269,6 +264,11 @@
             "path": "mods/timcore-fabric-1.8.0-1.32.0.jar",
             "hash": "ef752f8b0e861184f5471c9c46328c0b",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/timcore-fabric-1.8.0-1.32.0.jar"
+        },
+        {
+            "path": "mods/translatorpp-2.6.1+fabric-1.21.0-4.jar",
+            "hash": "bec456e48cfc991f28015da06f72970a",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/translatorpp-2.6.1+fabric-1.21.0-4.jar"
         },
         {
             "path": "mods/voicechat-fabric-1.21.1-2.6.22.jar",
@@ -361,11 +361,6 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobblemon-battle-extras-fabric-1.13.45.jar"
         },
         {
-            "path": "mods/Cobblemon-fabric-1.8.0+1.21.1.jar",
-            "hash": "91f78e096f45659e744fd888370ea75b",
-            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/Cobblemon-fabric-1.8.0+1.21.1.jar"
-        },
-        {
             "path": "mods/cobblemon-trainer-battle-1.11.13+1.8.0.jar",
             "hash": "51b08deb02e8f3f5912e77341a945a4b",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobblemon-trainer-battle-1.11.13+1.8.0.jar"
@@ -564,6 +559,11 @@
             "path": "mods/timcore-fabric-1.8.0-1.32.0.jar",
             "hash": "ef752f8b0e861184f5471c9c46328c0b",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/timcore-fabric-1.8.0-1.32.0.jar"
+        },
+        {
+            "path": "mods/translatorpp-2.6.1+fabric-1.21.0-4.jar",
+            "hash": "bec456e48cfc991f28015da06f72970a",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/translatorpp-2.6.1+fabric-1.21.0-4.jar"
         },
         {
             "path": "mods/voicechat-fabric-1.21.1-2.6.22.jar",
