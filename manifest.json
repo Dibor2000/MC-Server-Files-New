@@ -181,6 +181,11 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/owo-lib-0.13.0-alpha.15+1.21.jar"
         },
         {
+            "path": "mods/packedup-1.1.1-fabric-mc1.21.jar",
+            "hash": "812383f19020a66f5fe753d81e852af8",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/packedup-1.1.1-fabric-mc1.21.jar"
+        },
+        {
             "path": "mods/playerxp-fabric-1.1.2+1.21.1.jar",
             "hash": "208b2659e1271f5cd76409f1ac686c05",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/playerxp-fabric-1.1.2+1.21.1.jar"
@@ -254,6 +259,16 @@
             "path": "mods/sound-physics-remastered-fabric-1.21.1-1.4.10.jar",
             "hash": "9920768591c7dfb41bc3cd3fd2393828",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/sound-physics-remastered-fabric-1.21.1-1.4.10.jar"
+        },
+        {
+            "path": "mods/supermartijn642configlib-1.1.8-fabric-mc1.21.jar",
+            "hash": "fff83455887d85c6f7ebac7bba24fa8f",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/supermartijn642configlib-1.1.8-fabric-mc1.21.jar"
+        },
+        {
+            "path": "mods/supermartijn642corelib-1.1.24-fabric-mc1.21.jar",
+            "hash": "e7f486c8eaef28ab1104993ef74e3dd9",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/supermartijn642corelib-1.1.24-fabric-mc1.21.jar"
         },
         {
             "path": "mods/TerraBlender-fabric-1.21.1-4.1.0.8.jar",
@@ -476,6 +491,11 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/owo-lib-0.13.0-alpha.15+1.21.jar"
         },
         {
+            "path": "mods/packedup-1.1.1-fabric-mc1.21.jar",
+            "hash": "812383f19020a66f5fe753d81e852af8",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/packedup-1.1.1-fabric-mc1.21.jar"
+        },
+        {
             "path": "mods/playerxp-fabric-1.1.2+1.21.1.jar",
             "hash": "208b2659e1271f5cd76409f1ac686c05",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/playerxp-fabric-1.1.2+1.21.1.jar"
@@ -549,6 +569,16 @@
             "path": "mods/sound-physics-remastered-fabric-1.21.1-1.4.10.jar",
             "hash": "9920768591c7dfb41bc3cd3fd2393828",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/sound-physics-remastered-fabric-1.21.1-1.4.10.jar"
+        },
+        {
+            "path": "mods/supermartijn642configlib-1.1.8-fabric-mc1.21.jar",
+            "hash": "fff83455887d85c6f7ebac7bba24fa8f",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/supermartijn642configlib-1.1.8-fabric-mc1.21.jar"
+        },
+        {
+            "path": "mods/supermartijn642corelib-1.1.24-fabric-mc1.21.jar",
+            "hash": "e7f486c8eaef28ab1104993ef74e3dd9",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/supermartijn642corelib-1.1.24-fabric-mc1.21.jar"
         },
         {
             "path": "mods/TerraBlender-fabric-1.21.1-4.1.0.8.jar",
