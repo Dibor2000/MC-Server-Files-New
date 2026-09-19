@@ -76,6 +76,11 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobblenav-fabric-2.4.1.jar"
         },
         {
+            "path": "mods/collective-1.21.1-8.39.jar",
+            "hash": "7ae605279aacf6ae233bb1aafe2775c4",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/collective-1.21.1-8.39.jar"
+        },
+        {
             "path": "mods/easyauth-mc1.21-3.4.4.jar",
             "hash": "7965554735f197139cc94c8184b20557",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/easyauth-mc1.21-3.4.4.jar"
@@ -259,6 +264,11 @@
             "path": "mods/sound-physics-remastered-fabric-1.21.1-1.4.10.jar",
             "hash": "9920768591c7dfb41bc3cd3fd2393828",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/sound-physics-remastered-fabric-1.21.1-1.4.10.jar"
+        },
+        {
+            "path": "mods/starterkit-1.21.1-8.1.jar",
+            "hash": "9c18593a78e28640fac97b33b08b663d",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/starterkit-1.21.1-8.1.jar"
         },
         {
             "path": "mods/supermartijn642configlib-1.1.8-fabric-mc1.21.jar",
@@ -386,6 +396,11 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobblenav-fabric-2.4.1.jar"
         },
         {
+            "path": "mods/collective-1.21.1-8.39.jar",
+            "hash": "7ae605279aacf6ae233bb1aafe2775c4",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/collective-1.21.1-8.39.jar"
+        },
+        {
             "path": "mods/easyauth-mc1.21-3.4.4.jar",
             "hash": "7965554735f197139cc94c8184b20557",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/easyauth-mc1.21-3.4.4.jar"
@@ -569,6 +584,11 @@
             "path": "mods/sound-physics-remastered-fabric-1.21.1-1.4.10.jar",
             "hash": "9920768591c7dfb41bc3cd3fd2393828",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/sound-physics-remastered-fabric-1.21.1-1.4.10.jar"
+        },
+        {
+            "path": "mods/starterkit-1.21.1-8.1.jar",
+            "hash": "9c18593a78e28640fac97b33b08b663d",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/starterkit-1.21.1-8.1.jar"
         },
         {
             "path": "mods/supermartijn642configlib-1.1.8-fabric-mc1.21.jar",
