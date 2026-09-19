@@ -131,11 +131,6 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/graves-3.4.4+1.21.jar"
         },
         {
-            "path": "mods/InertiaAntiCheat-1.0.4.2-1.21.1.jar",
-            "hash": "12aaaf8022c76c9fbc529fbf160d98e0",
-            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/InertiaAntiCheat-1.0.4.2-1.21.1.jar"
-        },
-        {
             "path": "mods/jei-1.21.1-fabric-19.51.0.418.jar",
             "hash": "e1f77cb31adcd3061008f96c19f1ec51",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/jei-1.21.1-fabric-19.51.0.418.jar"
@@ -454,11 +449,6 @@
             "path": "mods/graves-3.4.4+1.21.jar",
             "hash": "d4108eec58cc5090fe7905170ce8f46d",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/graves-3.4.4+1.21.jar"
-        },
-        {
-            "path": "mods/InertiaAntiCheat-1.0.4.2-1.21.1.jar",
-            "hash": "12aaaf8022c76c9fbc529fbf160d98e0",
-            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/InertiaAntiCheat-1.0.4.2-1.21.1.jar"
         },
         {
             "path": "mods/jei-1.21.1-fabric-19.51.0.418.jar",
