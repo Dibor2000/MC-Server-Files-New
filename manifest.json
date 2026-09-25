@@ -16,6 +16,11 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/athena-fabric-1.21.1-4.0.6.jar"
         },
         {
+            "path": "mods/better-pokedex-scanner-1.0.0.jar",
+            "hash": "bb097232f80b5a070dec10e16af7b088",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/better-pokedex-scanner-1.0.0.jar"
+        },
+        {
             "path": "mods/BiomesOPlenty-fabric-1.21.1-21.1.0.14.jar",
             "hash": "15976a65706b403c166e75d3afa7d616",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/BiomesOPlenty-fabric-1.21.1-21.1.0.14.jar"
@@ -71,14 +76,34 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobblemon-battle-extras-fabric-1.13.45.jar"
         },
         {
+            "path": "mods/cobblemon-journey-mounts-1.7.2.jar",
+            "hash": "2a4ad4c0c2574a53780070c65f8fbd50",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobblemon-journey-mounts-1.7.2.jar"
+        },
+        {
+            "path": "mods/cobblemon-legendary-structures-2.2.jar",
+            "hash": "4dc4dcfd7f2c3ab3a0175860eca4bb2a",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobblemon-legendary-structures-2.2.jar"
+        },
+        {
             "path": "mods/cobblemon-trainer-battle-1.11.13+1.8.0.jar",
             "hash": "51b08deb02e8f3f5912e77341a945a4b",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobblemon-trainer-battle-1.11.13+1.8.0.jar"
         },
         {
+            "path": "mods/CobblemonWikiGui-fabric-2.7.0+1.21.1.jar",
+            "hash": "e1adf43d66fe8e86e76381f04c56dab4",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/CobblemonWikiGui-fabric-2.7.0+1.21.1.jar"
+        },
+        {
             "path": "mods/cobblenav-fabric-2.4.1.jar",
             "hash": "0b177285713feaa8e2671299b132941a",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobblenav-fabric-2.4.1.jar"
+        },
+        {
+            "path": "mods/cobbleride-fabric-0.3.3+1.21.1.jar",
+            "hash": "ab043def2c336f72ac9285019d4aa516",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobbleride-fabric-0.3.3+1.21.1.jar"
         },
         {
             "path": "mods/collective-1.21.1-8.39.jar",
@@ -134,6 +159,11 @@
             "path": "mods/graves-3.4.4+1.21.jar",
             "hash": "d4108eec58cc5090fe7905170ce8f46d",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/graves-3.4.4+1.21.jar"
+        },
+        {
+            "path": "mods/hiddenmons-cobblemon-v0.6.jar",
+            "hash": "c51f22964a05496ccd91f5b516a057e6",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/hiddenmons-cobblemon-v0.6.jar"
         },
         {
             "path": "mods/ImmediatelyFast-Fabric-1.6.14+1.21.1.jar",
@@ -349,6 +379,11 @@
             "path": "mods/translatorpp-2.6.1+fabric-1.21.0-4.jar",
             "hash": "bec456e48cfc991f28015da06f72970a",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/translatorpp-2.6.1+fabric-1.21.0-4.jar"
+        },
+        {
+            "path": "mods/tsfitemcore-1.0.0-fabric.jar",
+            "hash": "8beb568d26250153276ab347f09d86c0",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/tsfitemcore-1.0.0-fabric.jar"
         },
         {
             "path": "mods/yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
@@ -386,6 +421,11 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/athena-fabric-1.21.1-4.0.6.jar"
         },
         {
+            "path": "mods/better-pokedex-scanner-1.0.0.jar",
+            "hash": "bb097232f80b5a070dec10e16af7b088",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/better-pokedex-scanner-1.0.0.jar"
+        },
+        {
             "path": "mods/BiomesOPlenty-fabric-1.21.1-21.1.0.14.jar",
             "hash": "15976a65706b403c166e75d3afa7d616",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/BiomesOPlenty-fabric-1.21.1-21.1.0.14.jar"
@@ -441,14 +481,34 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobblemon-battle-extras-fabric-1.13.45.jar"
         },
         {
+            "path": "mods/cobblemon-journey-mounts-1.7.2.jar",
+            "hash": "2a4ad4c0c2574a53780070c65f8fbd50",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobblemon-journey-mounts-1.7.2.jar"
+        },
+        {
+            "path": "mods/cobblemon-legendary-structures-2.2.jar",
+            "hash": "4dc4dcfd7f2c3ab3a0175860eca4bb2a",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobblemon-legendary-structures-2.2.jar"
+        },
+        {
             "path": "mods/cobblemon-trainer-battle-1.11.13+1.8.0.jar",
             "hash": "51b08deb02e8f3f5912e77341a945a4b",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobblemon-trainer-battle-1.11.13+1.8.0.jar"
         },
         {
+            "path": "mods/CobblemonWikiGui-fabric-2.7.0+1.21.1.jar",
+            "hash": "e1adf43d66fe8e86e76381f04c56dab4",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/CobblemonWikiGui-fabric-2.7.0+1.21.1.jar"
+        },
+        {
             "path": "mods/cobblenav-fabric-2.4.1.jar",
             "hash": "0b177285713feaa8e2671299b132941a",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobblenav-fabric-2.4.1.jar"
+        },
+        {
+            "path": "mods/cobbleride-fabric-0.3.3+1.21.1.jar",
+            "hash": "ab043def2c336f72ac9285019d4aa516",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobbleride-fabric-0.3.3+1.21.1.jar"
         },
         {
             "path": "mods/collective-1.21.1-8.39.jar",
@@ -504,6 +564,11 @@
             "path": "mods/graves-3.4.4+1.21.jar",
             "hash": "d4108eec58cc5090fe7905170ce8f46d",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/graves-3.4.4+1.21.jar"
+        },
+        {
+            "path": "mods/hiddenmons-cobblemon-v0.6.jar",
+            "hash": "c51f22964a05496ccd91f5b516a057e6",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/hiddenmons-cobblemon-v0.6.jar"
         },
         {
             "path": "mods/ImmediatelyFast-Fabric-1.6.14+1.21.1.jar",
@@ -719,6 +784,11 @@
             "path": "mods/translatorpp-2.6.1+fabric-1.21.0-4.jar",
             "hash": "bec456e48cfc991f28015da06f72970a",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/translatorpp-2.6.1+fabric-1.21.0-4.jar"
+        },
+        {
+            "path": "mods/tsfitemcore-1.0.0-fabric.jar",
+            "hash": "8beb568d26250153276ab347f09d86c0",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/tsfitemcore-1.0.0-fabric.jar"
         },
         {
             "path": "mods/yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
