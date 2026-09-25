@@ -16,11 +16,6 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/athena-fabric-1.21.1-4.0.6.jar"
         },
         {
-            "path": "mods/better-pokedex-scanner-1.0.0.jar",
-            "hash": "bb097232f80b5a070dec10e16af7b088",
-            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/better-pokedex-scanner-1.0.0.jar"
-        },
-        {
             "path": "mods/BiomesOPlenty-fabric-1.21.1-21.1.0.14.jar",
             "hash": "15976a65706b403c166e75d3afa7d616",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/BiomesOPlenty-fabric-1.21.1-21.1.0.14.jar"
@@ -99,11 +94,6 @@
             "path": "mods/cobblenav-fabric-2.4.1.jar",
             "hash": "0b177285713feaa8e2671299b132941a",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobblenav-fabric-2.4.1.jar"
-        },
-        {
-            "path": "mods/cobbleride-fabric-0.3.3+1.21.1.jar",
-            "hash": "ab043def2c336f72ac9285019d4aa516",
-            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobbleride-fabric-0.3.3+1.21.1.jar"
         },
         {
             "path": "mods/collective-1.21.1-8.39.jar",
@@ -421,11 +411,6 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/athena-fabric-1.21.1-4.0.6.jar"
         },
         {
-            "path": "mods/better-pokedex-scanner-1.0.0.jar",
-            "hash": "bb097232f80b5a070dec10e16af7b088",
-            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/better-pokedex-scanner-1.0.0.jar"
-        },
-        {
             "path": "mods/BiomesOPlenty-fabric-1.21.1-21.1.0.14.jar",
             "hash": "15976a65706b403c166e75d3afa7d616",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/BiomesOPlenty-fabric-1.21.1-21.1.0.14.jar"
@@ -504,11 +489,6 @@
             "path": "mods/cobblenav-fabric-2.4.1.jar",
             "hash": "0b177285713feaa8e2671299b132941a",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobblenav-fabric-2.4.1.jar"
-        },
-        {
-            "path": "mods/cobbleride-fabric-0.3.3+1.21.1.jar",
-            "hash": "ab043def2c336f72ac9285019d4aa516",
-            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobbleride-fabric-0.3.3+1.21.1.jar"
         },
         {
             "path": "mods/collective-1.21.1-8.39.jar",
