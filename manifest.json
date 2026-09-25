@@ -26,6 +26,11 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/capturexp-fabric-1.8.0-1.3.0.jar"
         },
         {
+            "path": "mods/chatanimation-fabric-1.3.3+mc1.21.jar",
+            "hash": "ec16581e142ce7e048f245070ee848c8",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/chatanimation-fabric-1.3.3+mc1.21.jar"
+        },
+        {
             "path": "mods/chat_heads-0.15.7-fabric-1.21.jar",
             "hash": "94422ae39ff5ad7c6da661fffa61cb50",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/chat_heads-0.15.7-fabric-1.21.jar"
@@ -131,6 +136,21 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/graves-3.4.4+1.21.jar"
         },
         {
+            "path": "mods/ImmediatelyFast-Fabric-1.6.14+1.21.1.jar",
+            "hash": "16c56c742d42f5e78a6fbef9d61c56e8",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/ImmediatelyFast-Fabric-1.6.14+1.21.1.jar"
+        },
+        {
+            "path": "mods/Jade-1.21.1-Fabric-15.10.6.jar",
+            "hash": "be81fdbb2c03889c463260b52739621c",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/Jade-1.21.1-Fabric-15.10.6.jar"
+        },
+        {
+            "path": "mods/jamlib-fabric-1.3.6+1.21.1.jar",
+            "hash": "20d5808455cabb6100cdb795a9a9fde1",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/jamlib-fabric-1.3.6+1.21.1.jar"
+        },
+        {
             "path": "mods/jei-1.21.1-fabric-19.51.0.418.jar",
             "hash": "e1f77cb31adcd3061008f96c19f1ec51",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/jei-1.21.1-fabric-19.51.0.418.jar"
@@ -176,6 +196,11 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/missingmons-cobblemon-3.6.1.jar"
         },
         {
+            "path": "mods/modmenu-11.0.5.jar",
+            "hash": "52ed39a3015ef3e6b02915d87a8aabae",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/modmenu-11.0.5.jar"
+        },
+        {
             "path": "mods/notenoughanimations-fabric-1.12.4-mc1.21.1.jar",
             "hash": "6afb17a78bec2140a3904dcd6d1a3d92",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/notenoughanimations-fabric-1.12.4-mc1.21.1.jar"
@@ -189,6 +214,31 @@
             "path": "mods/packedup-1.1.1-fabric-mc1.21.jar",
             "hash": "812383f19020a66f5fe753d81e852af8",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/packedup-1.1.1-fabric-mc1.21.jar"
+        },
+        {
+            "path": "mods/placeholder-api-2.4.2+1.21.jar",
+            "hash": "4de8568a088a276c94168514d625413d",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/placeholder-api-2.4.2+1.21.jar"
+        },
+        {
+            "path": "mods/plasmovoice-fabric-1.21.1-2.1.17.jar",
+            "hash": "98b14ad7f3e801a9f231aebd0d8a5e82",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/plasmovoice-fabric-1.21.1-2.1.17.jar"
+        },
+        {
+            "path": "mods/player-animation-lib-fabric-2.0.4+1.21.1.jar",
+            "hash": "93e684b0c741294dc2ac7e6b1f958dd2",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/player-animation-lib-fabric-2.0.4+1.21.1.jar"
+        },
+        {
+            "path": "mods/playeranimatorapi-fabric-1.21-2.2.1.jar",
+            "hash": "37d25921cf34e73044ee4905c04b8b62",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/playeranimatorapi-fabric-1.21-2.2.1.jar"
+        },
+        {
+            "path": "mods/playeremotes-fabric-1.21.1-0.1.0.jar",
+            "hash": "ba5bee101fa2e3e197dcbc5720478945",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/playeremotes-fabric-1.21.1-0.1.0.jar"
         },
         {
             "path": "mods/playerxp-fabric-1.1.2+1.21.1.jar",
@@ -261,6 +311,11 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/sodium-fabric-0.8.13+mc1.21.1.jar"
         },
         {
+            "path": "mods/sort_it_out-fabric-1.5.0+1.21.1.jar",
+            "hash": "aa8dd56d6c29489f18c232e58e384aea",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/sort_it_out-fabric-1.5.0+1.21.1.jar"
+        },
+        {
             "path": "mods/sound-physics-remastered-fabric-1.21.1-1.4.10.jar",
             "hash": "9920768591c7dfb41bc3cd3fd2393828",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/sound-physics-remastered-fabric-1.21.1-1.4.10.jar"
@@ -294,11 +349,6 @@
             "path": "mods/translatorpp-2.6.1+fabric-1.21.0-4.jar",
             "hash": "bec456e48cfc991f28015da06f72970a",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/translatorpp-2.6.1+fabric-1.21.0-4.jar"
-        },
-        {
-            "path": "mods/voicechat-fabric-1.21.1-2.6.22.jar",
-            "hash": "dccfc2a487792d2d52ca91d19b9d7f6d",
-            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/voicechat-fabric-1.21.1-2.6.22.jar"
         },
         {
             "path": "mods/yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
@@ -346,6 +396,11 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/capturexp-fabric-1.8.0-1.3.0.jar"
         },
         {
+            "path": "mods/chatanimation-fabric-1.3.3+mc1.21.jar",
+            "hash": "ec16581e142ce7e048f245070ee848c8",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/chatanimation-fabric-1.3.3+mc1.21.jar"
+        },
+        {
             "path": "mods/chat_heads-0.15.7-fabric-1.21.jar",
             "hash": "94422ae39ff5ad7c6da661fffa61cb50",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/chat_heads-0.15.7-fabric-1.21.jar"
@@ -451,6 +506,21 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/graves-3.4.4+1.21.jar"
         },
         {
+            "path": "mods/ImmediatelyFast-Fabric-1.6.14+1.21.1.jar",
+            "hash": "16c56c742d42f5e78a6fbef9d61c56e8",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/ImmediatelyFast-Fabric-1.6.14+1.21.1.jar"
+        },
+        {
+            "path": "mods/Jade-1.21.1-Fabric-15.10.6.jar",
+            "hash": "be81fdbb2c03889c463260b52739621c",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/Jade-1.21.1-Fabric-15.10.6.jar"
+        },
+        {
+            "path": "mods/jamlib-fabric-1.3.6+1.21.1.jar",
+            "hash": "20d5808455cabb6100cdb795a9a9fde1",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/jamlib-fabric-1.3.6+1.21.1.jar"
+        },
+        {
             "path": "mods/jei-1.21.1-fabric-19.51.0.418.jar",
             "hash": "e1f77cb31adcd3061008f96c19f1ec51",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/jei-1.21.1-fabric-19.51.0.418.jar"
@@ -496,6 +566,11 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/missingmons-cobblemon-3.6.1.jar"
         },
         {
+            "path": "mods/modmenu-11.0.5.jar",
+            "hash": "52ed39a3015ef3e6b02915d87a8aabae",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/modmenu-11.0.5.jar"
+        },
+        {
             "path": "mods/notenoughanimations-fabric-1.12.4-mc1.21.1.jar",
             "hash": "6afb17a78bec2140a3904dcd6d1a3d92",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/notenoughanimations-fabric-1.12.4-mc1.21.1.jar"
@@ -509,6 +584,31 @@
             "path": "mods/packedup-1.1.1-fabric-mc1.21.jar",
             "hash": "812383f19020a66f5fe753d81e852af8",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/packedup-1.1.1-fabric-mc1.21.jar"
+        },
+        {
+            "path": "mods/placeholder-api-2.4.2+1.21.jar",
+            "hash": "4de8568a088a276c94168514d625413d",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/placeholder-api-2.4.2+1.21.jar"
+        },
+        {
+            "path": "mods/plasmovoice-fabric-1.21.1-2.1.17.jar",
+            "hash": "98b14ad7f3e801a9f231aebd0d8a5e82",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/plasmovoice-fabric-1.21.1-2.1.17.jar"
+        },
+        {
+            "path": "mods/player-animation-lib-fabric-2.0.4+1.21.1.jar",
+            "hash": "93e684b0c741294dc2ac7e6b1f958dd2",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/player-animation-lib-fabric-2.0.4+1.21.1.jar"
+        },
+        {
+            "path": "mods/playeranimatorapi-fabric-1.21-2.2.1.jar",
+            "hash": "37d25921cf34e73044ee4905c04b8b62",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/playeranimatorapi-fabric-1.21-2.2.1.jar"
+        },
+        {
+            "path": "mods/playeremotes-fabric-1.21.1-0.1.0.jar",
+            "hash": "ba5bee101fa2e3e197dcbc5720478945",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/playeremotes-fabric-1.21.1-0.1.0.jar"
         },
         {
             "path": "mods/playerxp-fabric-1.1.2+1.21.1.jar",
@@ -581,6 +681,11 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/sodium-fabric-0.8.13+mc1.21.1.jar"
         },
         {
+            "path": "mods/sort_it_out-fabric-1.5.0+1.21.1.jar",
+            "hash": "aa8dd56d6c29489f18c232e58e384aea",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/sort_it_out-fabric-1.5.0+1.21.1.jar"
+        },
+        {
             "path": "mods/sound-physics-remastered-fabric-1.21.1-1.4.10.jar",
             "hash": "9920768591c7dfb41bc3cd3fd2393828",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/sound-physics-remastered-fabric-1.21.1-1.4.10.jar"
@@ -614,11 +719,6 @@
             "path": "mods/translatorpp-2.6.1+fabric-1.21.0-4.jar",
             "hash": "bec456e48cfc991f28015da06f72970a",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/translatorpp-2.6.1+fabric-1.21.0-4.jar"
-        },
-        {
-            "path": "mods/voicechat-fabric-1.21.1-2.6.22.jar",
-            "hash": "dccfc2a487792d2d52ca91d19b9d7f6d",
-            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/voicechat-fabric-1.21.1-2.6.22.jar"
         },
         {
             "path": "mods/yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
