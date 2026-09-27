@@ -1,0 +1,14 @@
+{
+    "files": [
+        {
+            "path": "mods/bettercoppergolem-FABRIC-2.4.1-26.3.jar",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/vanila_mods/bettercoppergolem-FABRIC-2.4.1-26.3.jar",
+            "hash": "25d6c1e61c50e0eac46d6a82a447236f"
+        },
+        {
+            "path": "mods/fabric-api-0.161.0+26.3.jar",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/vanila_mods/fabric-api-0.161.0+26.3.jar",
+            "hash": "0bce1e70b0593d995206eeb3f980d781"
+        }
+    ]
+}
