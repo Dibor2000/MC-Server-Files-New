@@ -41,6 +41,11 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/chipped-fabric-1.21.1-4.0.2.jar"
         },
         {
+            "path": "mods/cloth-config-15.0.140-fabric.jar",
+            "hash": "a2c091b027ad6ba8e54b07020fd45884",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cloth-config-15.0.140-fabric.jar"
+        },
+        {
             "path": "mods/Clumps-fabric-1.21.1-19.0.0.1.jar",
             "hash": "8715713c6b63565a5eafb4c925275035",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/Clumps-fabric-1.21.1-19.0.0.1.jar"
@@ -236,14 +241,14 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/packedup-1.1.1-fabric-mc1.21.jar"
         },
         {
+            "path": "mods/particle-rain-3.0.5.jar",
+            "hash": "bdf9694e423ee6615f2bca875cf40409",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/particle-rain-3.0.5.jar"
+        },
+        {
             "path": "mods/placeholder-api-2.4.2+1.21.jar",
             "hash": "4de8568a088a276c94168514d625413d",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/placeholder-api-2.4.2+1.21.jar"
-        },
-        {
-            "path": "mods/plasmovoice-fabric-1.21.1-2.1.17.jar",
-            "hash": "98b14ad7f3e801a9f231aebd0d8a5e82",
-            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/plasmovoice-fabric-1.21.1-2.1.17.jar"
         },
         {
             "path": "mods/player-animation-lib-fabric-2.0.4+1.21.1.jar",
@@ -299,11 +304,6 @@
             "path": "mods/SafePastures-1.1.1+1.21.1.jar",
             "hash": "af5597adebbfad7f73c01e118d93bf97",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/SafePastures-1.1.1+1.21.1.jar"
-        },
-        {
-            "path": "mods/SereneSeasons-fabric-1.21.1-10.1.0.9.jar",
-            "hash": "715f8290eb0b819bdecf601ce43708df",
-            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/SereneSeasons-fabric-1.21.1-10.1.0.9.jar"
         },
         {
             "path": "mods/shulkerboxtooltip-fabric-5.1.9+1.21.1.jar",
@@ -381,6 +381,76 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar"
         },
         {
+            "path": "mods/YungsApi-1.21.1-Fabric-5.1.9.jar",
+            "hash": "742e0b0b5451c0d06b435d76883f895c",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/YungsApi-1.21.1-Fabric-5.1.9.jar"
+        },
+        {
+            "path": "mods/YungsBetterDesertTemples-1.21.1-Fabric-4.1.5.jar",
+            "hash": "82e85b1ccffdee21474e98da32eefb02",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/YungsBetterDesertTemples-1.21.1-Fabric-4.1.5.jar"
+        },
+        {
+            "path": "mods/YungsBetterDungeons-1.21.1-Fabric-5.1.4.jar",
+            "hash": "dd05e407c3c2d2a0090eb713a15ac49a",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/YungsBetterDungeons-1.21.1-Fabric-5.1.4.jar"
+        },
+        {
+            "path": "mods/YungsBetterEndIsland-1.21.1-Fabric-3.1.2.jar",
+            "hash": "2da207d7a870a25b73d6b0fb9b700618",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/YungsBetterEndIsland-1.21.1-Fabric-3.1.2.jar"
+        },
+        {
+            "path": "mods/YungsBetterJungleTemples-1.21.1-Fabric-3.1.2.jar",
+            "hash": "3c582e76c9413e1af8fd2dcb6708779e",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/YungsBetterJungleTemples-1.21.1-Fabric-3.1.2.jar"
+        },
+        {
+            "path": "mods/YungsBetterMineshafts-1.21.1-Fabric-5.1.1.jar",
+            "hash": "f537ac7481a2a6a3164082a93f8691af",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/YungsBetterMineshafts-1.21.1-Fabric-5.1.1.jar"
+        },
+        {
+            "path": "mods/YungsBetterNetherFortresses-1.21.1-Fabric-3.1.5.jar",
+            "hash": "b1304ce262c9e64e4a18e55e696c9d2d",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/YungsBetterNetherFortresses-1.21.1-Fabric-3.1.5.jar"
+        },
+        {
+            "path": "mods/YungsBetterOceanMonuments-1.21.1-Fabric-4.1.2.jar",
+            "hash": "ab76527e9eb1c29375bdb70bca8f6dce",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/YungsBetterOceanMonuments-1.21.1-Fabric-4.1.2.jar"
+        },
+        {
+            "path": "mods/YungsBetterStrongholds-1.21.1-Fabric-5.1.3.jar",
+            "hash": "d480ea480d47cf731cd00c39abfae160",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/YungsBetterStrongholds-1.21.1-Fabric-5.1.3.jar"
+        },
+        {
+            "path": "mods/YungsBetterWitchHuts-1.21.1-Fabric-4.1.1.jar",
+            "hash": "18e5b203e76da0bf3afe8c937d2926e3",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/YungsBetterWitchHuts-1.21.1-Fabric-4.1.1.jar"
+        },
+        {
+            "path": "mods/YungsBridges-1.21.1-Fabric-5.1.1.jar",
+            "hash": "ec3a66c3e7c5f0b6dfa34d098529a431",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/YungsBridges-1.21.1-Fabric-5.1.1.jar"
+        },
+        {
+            "path": "mods/YungsCaveBiomes-1.21.1-Fabric-3.1.1.jar",
+            "hash": "9ed3fe2e2823876b2b783aa40ffca036",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/YungsCaveBiomes-1.21.1-Fabric-3.1.1.jar"
+        },
+        {
+            "path": "mods/YungsExtras-1.21.1-Fabric-5.1.1.jar",
+            "hash": "d629e410093f74500f22353b30495972",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/YungsExtras-1.21.1-Fabric-5.1.1.jar"
+        },
+        {
+            "path": "mods/YungsMenuTweaks-1.21.1-Fabric-2.1.2.jar",
+            "hash": "f2f3838d3a1affb9b1343849b648351e",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/YungsMenuTweaks-1.21.1-Fabric-2.1.2.jar"
+        },
+        {
             "path": "mods/zoomify-2.15.2+1.21.1.jar",
             "hash": "e3beea86fba08bffe61ccad28df6c676",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/zoomify-2.15.2+1.21.1.jar"
@@ -389,6 +459,16 @@
             "path": "generate_manifest.py.py",
             "hash": "f73801e36439e74773e45da1b7daec93",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/generate_manifest.py.py"
+        },
+        {
+            "path": "make_manifest.py",
+            "hash": "f3ce2e8b4f16121afa996d5a7be90a92",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/make_manifest.py"
+        },
+        {
+            "path": "manifest_vanilla.json",
+            "hash": "0cf279ba9ef8cbd168c8cc28eb0cf69f",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/manifest_vanilla.json"
         },
         {
             "path": "servers.dat",
@@ -436,6 +516,11 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/chipped-fabric-1.21.1-4.0.2.jar"
         },
         {
+            "path": "mods/cloth-config-15.0.140-fabric.jar",
+            "hash": "a2c091b027ad6ba8e54b07020fd45884",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cloth-config-15.0.140-fabric.jar"
+        },
+        {
             "path": "mods/Clumps-fabric-1.21.1-19.0.0.1.jar",
             "hash": "8715713c6b63565a5eafb4c925275035",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/Clumps-fabric-1.21.1-19.0.0.1.jar"
@@ -631,14 +716,14 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/packedup-1.1.1-fabric-mc1.21.jar"
         },
         {
+            "path": "mods/particle-rain-3.0.5.jar",
+            "hash": "bdf9694e423ee6615f2bca875cf40409",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/particle-rain-3.0.5.jar"
+        },
+        {
             "path": "mods/placeholder-api-2.4.2+1.21.jar",
             "hash": "4de8568a088a276c94168514d625413d",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/placeholder-api-2.4.2+1.21.jar"
-        },
-        {
-            "path": "mods/plasmovoice-fabric-1.21.1-2.1.17.jar",
-            "hash": "98b14ad7f3e801a9f231aebd0d8a5e82",
-            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/plasmovoice-fabric-1.21.1-2.1.17.jar"
         },
         {
             "path": "mods/player-animation-lib-fabric-2.0.4+1.21.1.jar",
@@ -694,11 +779,6 @@
             "path": "mods/SafePastures-1.1.1+1.21.1.jar",
             "hash": "af5597adebbfad7f73c01e118d93bf97",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/SafePastures-1.1.1+1.21.1.jar"
-        },
-        {
-            "path": "mods/SereneSeasons-fabric-1.21.1-10.1.0.9.jar",
-            "hash": "715f8290eb0b819bdecf601ce43708df",
-            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/SereneSeasons-fabric-1.21.1-10.1.0.9.jar"
         },
         {
             "path": "mods/shulkerboxtooltip-fabric-5.1.9+1.21.1.jar",
@@ -776,9 +856,89 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar"
         },
         {
+            "path": "mods/YungsApi-1.21.1-Fabric-5.1.9.jar",
+            "hash": "742e0b0b5451c0d06b435d76883f895c",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/YungsApi-1.21.1-Fabric-5.1.9.jar"
+        },
+        {
+            "path": "mods/YungsBetterDesertTemples-1.21.1-Fabric-4.1.5.jar",
+            "hash": "82e85b1ccffdee21474e98da32eefb02",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/YungsBetterDesertTemples-1.21.1-Fabric-4.1.5.jar"
+        },
+        {
+            "path": "mods/YungsBetterDungeons-1.21.1-Fabric-5.1.4.jar",
+            "hash": "dd05e407c3c2d2a0090eb713a15ac49a",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/YungsBetterDungeons-1.21.1-Fabric-5.1.4.jar"
+        },
+        {
+            "path": "mods/YungsBetterEndIsland-1.21.1-Fabric-3.1.2.jar",
+            "hash": "2da207d7a870a25b73d6b0fb9b700618",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/YungsBetterEndIsland-1.21.1-Fabric-3.1.2.jar"
+        },
+        {
+            "path": "mods/YungsBetterJungleTemples-1.21.1-Fabric-3.1.2.jar",
+            "hash": "3c582e76c9413e1af8fd2dcb6708779e",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/YungsBetterJungleTemples-1.21.1-Fabric-3.1.2.jar"
+        },
+        {
+            "path": "mods/YungsBetterMineshafts-1.21.1-Fabric-5.1.1.jar",
+            "hash": "f537ac7481a2a6a3164082a93f8691af",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/YungsBetterMineshafts-1.21.1-Fabric-5.1.1.jar"
+        },
+        {
+            "path": "mods/YungsBetterNetherFortresses-1.21.1-Fabric-3.1.5.jar",
+            "hash": "b1304ce262c9e64e4a18e55e696c9d2d",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/YungsBetterNetherFortresses-1.21.1-Fabric-3.1.5.jar"
+        },
+        {
+            "path": "mods/YungsBetterOceanMonuments-1.21.1-Fabric-4.1.2.jar",
+            "hash": "ab76527e9eb1c29375bdb70bca8f6dce",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/YungsBetterOceanMonuments-1.21.1-Fabric-4.1.2.jar"
+        },
+        {
+            "path": "mods/YungsBetterStrongholds-1.21.1-Fabric-5.1.3.jar",
+            "hash": "d480ea480d47cf731cd00c39abfae160",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/YungsBetterStrongholds-1.21.1-Fabric-5.1.3.jar"
+        },
+        {
+            "path": "mods/YungsBetterWitchHuts-1.21.1-Fabric-4.1.1.jar",
+            "hash": "18e5b203e76da0bf3afe8c937d2926e3",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/YungsBetterWitchHuts-1.21.1-Fabric-4.1.1.jar"
+        },
+        {
+            "path": "mods/YungsBridges-1.21.1-Fabric-5.1.1.jar",
+            "hash": "ec3a66c3e7c5f0b6dfa34d098529a431",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/YungsBridges-1.21.1-Fabric-5.1.1.jar"
+        },
+        {
+            "path": "mods/YungsCaveBiomes-1.21.1-Fabric-3.1.1.jar",
+            "hash": "9ed3fe2e2823876b2b783aa40ffca036",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/YungsCaveBiomes-1.21.1-Fabric-3.1.1.jar"
+        },
+        {
+            "path": "mods/YungsExtras-1.21.1-Fabric-5.1.1.jar",
+            "hash": "d629e410093f74500f22353b30495972",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/YungsExtras-1.21.1-Fabric-5.1.1.jar"
+        },
+        {
+            "path": "mods/YungsMenuTweaks-1.21.1-Fabric-2.1.2.jar",
+            "hash": "f2f3838d3a1affb9b1343849b648351e",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/YungsMenuTweaks-1.21.1-Fabric-2.1.2.jar"
+        },
+        {
             "path": "mods/zoomify-2.15.2+1.21.1.jar",
             "hash": "e3beea86fba08bffe61ccad28df6c676",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/zoomify-2.15.2+1.21.1.jar"
+        },
+        {
+            "path": "vanila_mods/bettercoppergolem-FABRIC-2.4.1-26.3.jar",
+            "hash": "25d6c1e61c50e0eac46d6a82a447236f",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/vanila_mods/bettercoppergolem-FABRIC-2.4.1-26.3.jar"
+        },
+        {
+            "path": "vanila_mods/fabric-api-0.161.0+26.3.jar",
+            "hash": "0bce1e70b0593d995206eeb3f980d781",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/vanila_mods/fabric-api-0.161.0+26.3.jar"
         }
     ]
 }
