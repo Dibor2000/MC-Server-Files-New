@@ -76,11 +76,6 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobblemon-battle-extras-fabric-1.13.45.jar"
         },
         {
-            "path": "mods/cobblemon-journey-mounts-1.7.2.jar",
-            "hash": "2a4ad4c0c2574a53780070c65f8fbd50",
-            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobblemon-journey-mounts-1.7.2.jar"
-        },
-        {
             "path": "mods/cobblemon-legendary-structures-2.2.jar",
             "hash": "4dc4dcfd7f2c3ab3a0175860eca4bb2a",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobblemon-legendary-structures-2.2.jar"
@@ -549,11 +544,6 @@
             "path": "mods/cobblemon-battle-extras-fabric-1.13.45.jar",
             "hash": "dbf09923dc28a0339c5c5bb7eae9061d",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobblemon-battle-extras-fabric-1.13.45.jar"
-        },
-        {
-            "path": "mods/cobblemon-journey-mounts-1.7.2.jar",
-            "hash": "2a4ad4c0c2574a53780070c65f8fbd50",
-            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobblemon-journey-mounts-1.7.2.jar"
         },
         {
             "path": "mods/cobblemon-legendary-structures-2.2.jar",
