@@ -401,6 +401,16 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/tsfitemcore-1.0.0-fabric.jar"
         },
         {
+            "path": "mods/voicechat-fabric-1.21.1-2.6.22.jar",
+            "hash": "dccfc2a487792d2d52ca91d19b9d7f6d",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/voicechat-fabric-1.21.1-2.6.22.jar"
+        },
+        {
+            "path": "mods/voicemessages-fabric-1.0.13-1.21.1.jar",
+            "hash": "12fe3941011888f34b8cb378244b8f83",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/voicemessages-fabric-1.0.13-1.21.1.jar"
+        },
+        {
             "path": "mods/watut-fabric-1.21.0-1.2.7.jar",
             "hash": "00d9b67556a85016edab41e05443a5a9",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/watut-fabric-1.21.0-1.2.7.jar"
@@ -904,6 +914,16 @@
             "path": "mods/tsfitemcore-1.0.0-fabric.jar",
             "hash": "8beb568d26250153276ab347f09d86c0",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/tsfitemcore-1.0.0-fabric.jar"
+        },
+        {
+            "path": "mods/voicechat-fabric-1.21.1-2.6.22.jar",
+            "hash": "dccfc2a487792d2d52ca91d19b9d7f6d",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/voicechat-fabric-1.21.1-2.6.22.jar"
+        },
+        {
+            "path": "mods/voicemessages-fabric-1.0.13-1.21.1.jar",
+            "hash": "12fe3941011888f34b8cb378244b8f83",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/voicemessages-fabric-1.0.13-1.21.1.jar"
         },
         {
             "path": "mods/watut-fabric-1.21.0-1.2.7.jar",
