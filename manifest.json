@@ -31,6 +31,11 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/chatanimation-fabric-1.3.3+mc1.21.jar"
         },
         {
+            "path": "mods/chatpatches-211.6.9-secure.jar",
+            "hash": "34a910a2e3e16fd4a4ce502a317d7907",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/chatpatches-211.6.9-secure.jar"
+        },
+        {
             "path": "mods/chat_heads-0.15.7-fabric-1.21.jar",
             "hash": "94422ae39ff5ad7c6da661fffa61cb50",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/chat_heads-0.15.7-fabric-1.21.jar"
@@ -101,9 +106,24 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/collective-1.21.1-8.39.jar"
         },
         {
+            "path": "mods/coroutil-fabric-1.21.1-1.3.8.jar",
+            "hash": "10985dc4266677b6c603fe91e635bb30",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/coroutil-fabric-1.21.1-1.3.8.jar"
+        },
+        {
+            "path": "mods/death-back-1.0.0-mc1.21.jar",
+            "hash": "df54ad06de770c393e00b80536bbf0c8",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/death-back-1.0.0-mc1.21.jar"
+        },
+        {
             "path": "mods/easyauth-mc1.21-3.4.4.jar",
             "hash": "7965554735f197139cc94c8184b20557",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/easyauth-mc1.21-3.4.4.jar"
+        },
+        {
+            "path": "mods/entityculling-fabric-1.11.2-mc1.21.1.jar",
+            "hash": "5e9555e46f5c8814ff02d9f7c4e5f6fe",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/entityculling-fabric-1.11.2-mc1.21.1.jar"
         },
         {
             "path": "mods/fabric-api-0.116.17+1.21.1.jar",
@@ -261,6 +281,11 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/playeremotes-fabric-1.21.1-0.1.0.jar"
         },
         {
+            "path": "mods/players-drop-heads-48.2.jar",
+            "hash": "560abf3e97376c6fb919098290937354",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/players-drop-heads-48.2.jar"
+        },
+        {
             "path": "mods/playerxp-fabric-1.1.2+1.21.1.jar",
             "hash": "208b2659e1271f5cd76409f1ac686c05",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/playerxp-fabric-1.1.2+1.21.1.jar"
@@ -321,6 +346,11 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/skinrestorer-2.11.0+1.21-fabric.jar"
         },
         {
+            "path": "mods/sleep-v3.3.2.jar",
+            "hash": "372a7d1177941ba2cbf67cd0f991506e",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/sleep-v3.3.2.jar"
+        },
+        {
             "path": "mods/sodium-fabric-0.8.13+mc1.21.1.jar",
             "hash": "5d9c08eefe9ea23cd5201e93332e3450",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/sodium-fabric-0.8.13+mc1.21.1.jar"
@@ -369,6 +399,11 @@
             "path": "mods/tsfitemcore-1.0.0-fabric.jar",
             "hash": "8beb568d26250153276ab347f09d86c0",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/tsfitemcore-1.0.0-fabric.jar"
+        },
+        {
+            "path": "mods/watut-fabric-1.21.0-1.2.7.jar",
+            "hash": "00d9b67556a85016edab41e05443a5a9",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/watut-fabric-1.21.0-1.2.7.jar"
         },
         {
             "path": "mods/yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
@@ -501,6 +536,11 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/chatanimation-fabric-1.3.3+mc1.21.jar"
         },
         {
+            "path": "mods/chatpatches-211.6.9-secure.jar",
+            "hash": "34a910a2e3e16fd4a4ce502a317d7907",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/chatpatches-211.6.9-secure.jar"
+        },
+        {
             "path": "mods/chat_heads-0.15.7-fabric-1.21.jar",
             "hash": "94422ae39ff5ad7c6da661fffa61cb50",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/chat_heads-0.15.7-fabric-1.21.jar"
@@ -571,9 +611,24 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/collective-1.21.1-8.39.jar"
         },
         {
+            "path": "mods/coroutil-fabric-1.21.1-1.3.8.jar",
+            "hash": "10985dc4266677b6c603fe91e635bb30",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/coroutil-fabric-1.21.1-1.3.8.jar"
+        },
+        {
+            "path": "mods/death-back-1.0.0-mc1.21.jar",
+            "hash": "df54ad06de770c393e00b80536bbf0c8",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/death-back-1.0.0-mc1.21.jar"
+        },
+        {
             "path": "mods/easyauth-mc1.21-3.4.4.jar",
             "hash": "7965554735f197139cc94c8184b20557",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/easyauth-mc1.21-3.4.4.jar"
+        },
+        {
+            "path": "mods/entityculling-fabric-1.11.2-mc1.21.1.jar",
+            "hash": "5e9555e46f5c8814ff02d9f7c4e5f6fe",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/entityculling-fabric-1.11.2-mc1.21.1.jar"
         },
         {
             "path": "mods/fabric-api-0.116.17+1.21.1.jar",
@@ -731,6 +786,11 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/playeremotes-fabric-1.21.1-0.1.0.jar"
         },
         {
+            "path": "mods/players-drop-heads-48.2.jar",
+            "hash": "560abf3e97376c6fb919098290937354",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/players-drop-heads-48.2.jar"
+        },
+        {
             "path": "mods/playerxp-fabric-1.1.2+1.21.1.jar",
             "hash": "208b2659e1271f5cd76409f1ac686c05",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/playerxp-fabric-1.1.2+1.21.1.jar"
@@ -791,6 +851,11 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/skinrestorer-2.11.0+1.21-fabric.jar"
         },
         {
+            "path": "mods/sleep-v3.3.2.jar",
+            "hash": "372a7d1177941ba2cbf67cd0f991506e",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/sleep-v3.3.2.jar"
+        },
+        {
             "path": "mods/sodium-fabric-0.8.13+mc1.21.1.jar",
             "hash": "5d9c08eefe9ea23cd5201e93332e3450",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/sodium-fabric-0.8.13+mc1.21.1.jar"
@@ -839,6 +904,11 @@
             "path": "mods/tsfitemcore-1.0.0-fabric.jar",
             "hash": "8beb568d26250153276ab347f09d86c0",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/tsfitemcore-1.0.0-fabric.jar"
+        },
+        {
+            "path": "mods/watut-fabric-1.21.0-1.2.7.jar",
+            "hash": "00d9b67556a85016edab41e05443a5a9",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/watut-fabric-1.21.0-1.2.7.jar"
         },
         {
             "path": "mods/yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
