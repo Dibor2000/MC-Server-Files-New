@@ -171,11 +171,6 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/graves-3.4.4+1.21.jar"
         },
         {
-            "path": "mods/headpats-1.0.6+1.21.1.jar",
-            "hash": "cb1065bf9fbc9245301aff1714a7ae46",
-            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/headpats-1.0.6+1.21.1.jar"
-        },
-        {
             "path": "mods/hiddenmons-cobblemon-v0.6.jar",
             "hash": "c51f22964a05496ccd91f5b516a057e6",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/hiddenmons-cobblemon-v0.6.jar"
@@ -679,11 +674,6 @@
             "path": "mods/graves-3.4.4+1.21.jar",
             "hash": "d4108eec58cc5090fe7905170ce8f46d",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/graves-3.4.4+1.21.jar"
-        },
-        {
-            "path": "mods/headpats-1.0.6+1.21.1.jar",
-            "hash": "cb1065bf9fbc9245301aff1714a7ae46",
-            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/headpats-1.0.6+1.21.1.jar"
         },
         {
             "path": "mods/hiddenmons-cobblemon-v0.6.jar",
