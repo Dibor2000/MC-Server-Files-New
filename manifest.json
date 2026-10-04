@@ -116,6 +116,11 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/coroutil-fabric-1.21.1-1.3.8.jar"
         },
         {
+            "path": "mods/customplayerheads-2.1.0.jar",
+            "hash": "4a3eb851c2986d38a2959ce3ca54401e",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/customplayerheads-2.1.0.jar"
+        },
+        {
             "path": "mods/easyauth-mc1.21-3.4.4.jar",
             "hash": "7965554735f197139cc94c8184b20557",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/easyauth-mc1.21-3.4.4.jar"
@@ -209,11 +214,6 @@
             "path": "mods/journeymap-fabric-1.21.1-6.0.8.jar",
             "hash": "2cee35cc396eb791ffaef72c7b52501f",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/journeymap-fabric-1.21.1-6.0.8.jar"
-        },
-        {
-            "path": "mods/justplayerheads-1.21.1-4.5.jar",
-            "hash": "d88f5c2495a0e7af8023ddaae411b0ad",
-            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/justplayerheads-1.21.1-4.5.jar"
         },
         {
             "path": "mods/lambdynamiclights-4.8.11+1.21.1.jar",
@@ -399,6 +399,16 @@
             "path": "mods/tsfitemcore-1.0.0-fabric.jar",
             "hash": "8beb568d26250153276ab347f09d86c0",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/tsfitemcore-1.0.0-fabric.jar"
+        },
+        {
+            "path": "mods/voicechat-fabric-1.21.1-2.6.22.jar",
+            "hash": "dccfc2a487792d2d52ca91d19b9d7f6d",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/voicechat-fabric-1.21.1-2.6.22.jar"
+        },
+        {
+            "path": "mods/voicemessages-fabric-1.0.13-1.21.1.jar",
+            "hash": "12fe3941011888f34b8cb378244b8f83",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/voicemessages-fabric-1.0.13-1.21.1.jar"
         },
         {
             "path": "mods/watut-fabric-1.21.0-1.2.7.jar",
@@ -621,6 +631,11 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/coroutil-fabric-1.21.1-1.3.8.jar"
         },
         {
+            "path": "mods/customplayerheads-2.1.0.jar",
+            "hash": "4a3eb851c2986d38a2959ce3ca54401e",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/customplayerheads-2.1.0.jar"
+        },
+        {
             "path": "mods/easyauth-mc1.21-3.4.4.jar",
             "hash": "7965554735f197139cc94c8184b20557",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/easyauth-mc1.21-3.4.4.jar"
@@ -714,11 +729,6 @@
             "path": "mods/journeymap-fabric-1.21.1-6.0.8.jar",
             "hash": "2cee35cc396eb791ffaef72c7b52501f",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/journeymap-fabric-1.21.1-6.0.8.jar"
-        },
-        {
-            "path": "mods/justplayerheads-1.21.1-4.5.jar",
-            "hash": "d88f5c2495a0e7af8023ddaae411b0ad",
-            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/justplayerheads-1.21.1-4.5.jar"
         },
         {
             "path": "mods/lambdynamiclights-4.8.11+1.21.1.jar",
@@ -904,6 +914,16 @@
             "path": "mods/tsfitemcore-1.0.0-fabric.jar",
             "hash": "8beb568d26250153276ab347f09d86c0",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/tsfitemcore-1.0.0-fabric.jar"
+        },
+        {
+            "path": "mods/voicechat-fabric-1.21.1-2.6.22.jar",
+            "hash": "dccfc2a487792d2d52ca91d19b9d7f6d",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/voicechat-fabric-1.21.1-2.6.22.jar"
+        },
+        {
+            "path": "mods/voicemessages-fabric-1.0.13-1.21.1.jar",
+            "hash": "12fe3941011888f34b8cb378244b8f83",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/voicemessages-fabric-1.0.13-1.21.1.jar"
         },
         {
             "path": "mods/watut-fabric-1.21.0-1.2.7.jar",
