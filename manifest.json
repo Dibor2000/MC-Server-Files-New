@@ -291,11 +291,6 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/playerxp-fabric-1.1.2+1.21.1.jar"
         },
         {
-            "path": "mods/polymer-bundled-0.9.19+1.21.1.jar",
-            "hash": "abb2034b3f2d9c59819249458eb1c0f3",
-            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/polymer-bundled-0.9.19+1.21.1.jar"
-        },
-        {
             "path": "mods/PresenceFootsteps-1.11.2+1.21.jar",
             "hash": "cf94f9107e5717c9af4fe21b28254df0",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/PresenceFootsteps-1.11.2+1.21.jar"
@@ -381,6 +376,11 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/supermartijn642corelib-1.1.24-fabric-mc1.21.jar"
         },
         {
+            "path": "mods/supermartijn642corelib-1.1.24a-fabric-mc1.21.jar",
+            "hash": "d97e5ff2d211c4048c5df5dd75b6e091",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/supermartijn642corelib-1.1.24a-fabric-mc1.21.jar"
+        },
+        {
             "path": "mods/TerraBlender-fabric-1.21.1-4.1.0.8.jar",
             "hash": "c82218938313a31a2e7d55028fe97e3a",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/TerraBlender-fabric-1.21.1-4.1.0.8.jar"
@@ -389,6 +389,11 @@
             "path": "mods/timcore-fabric-1.8.0-1.32.0.jar",
             "hash": "ef752f8b0e861184f5471c9c46328c0b",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/timcore-fabric-1.8.0-1.32.0.jar"
+        },
+        {
+            "path": "mods/timcore-fabric-1.8.1-1.33.2.jar",
+            "hash": "591b2be5f6f0a657971d395db0eb91de",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/timcore-fabric-1.8.1-1.33.2.jar"
         },
         {
             "path": "mods/translatorpp-2.6.1+fabric-1.21.0-4.jar",
@@ -414,6 +419,11 @@
             "path": "mods/watut-fabric-1.21.0-1.2.7.jar",
             "hash": "00d9b67556a85016edab41e05443a5a9",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/watut-fabric-1.21.0-1.2.7.jar"
+        },
+        {
+            "path": "mods/yet_another_config_lib_v3-3.8.2+1.21.1-fabric (1).jar",
+            "hash": "aadf11f5a793296be7c195e1ca388492",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/yet_another_config_lib_v3-3.8.2+1.21.1-fabric (1).jar"
         },
         {
             "path": "mods/yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
@@ -806,11 +816,6 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/playerxp-fabric-1.1.2+1.21.1.jar"
         },
         {
-            "path": "mods/polymer-bundled-0.9.19+1.21.1.jar",
-            "hash": "abb2034b3f2d9c59819249458eb1c0f3",
-            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/polymer-bundled-0.9.19+1.21.1.jar"
-        },
-        {
             "path": "mods/PresenceFootsteps-1.11.2+1.21.jar",
             "hash": "cf94f9107e5717c9af4fe21b28254df0",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/PresenceFootsteps-1.11.2+1.21.jar"
@@ -896,6 +901,11 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/supermartijn642corelib-1.1.24-fabric-mc1.21.jar"
         },
         {
+            "path": "mods/supermartijn642corelib-1.1.24a-fabric-mc1.21.jar",
+            "hash": "d97e5ff2d211c4048c5df5dd75b6e091",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/supermartijn642corelib-1.1.24a-fabric-mc1.21.jar"
+        },
+        {
             "path": "mods/TerraBlender-fabric-1.21.1-4.1.0.8.jar",
             "hash": "c82218938313a31a2e7d55028fe97e3a",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/TerraBlender-fabric-1.21.1-4.1.0.8.jar"
@@ -904,6 +914,11 @@
             "path": "mods/timcore-fabric-1.8.0-1.32.0.jar",
             "hash": "ef752f8b0e861184f5471c9c46328c0b",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/timcore-fabric-1.8.0-1.32.0.jar"
+        },
+        {
+            "path": "mods/timcore-fabric-1.8.1-1.33.2.jar",
+            "hash": "591b2be5f6f0a657971d395db0eb91de",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/timcore-fabric-1.8.1-1.33.2.jar"
         },
         {
             "path": "mods/translatorpp-2.6.1+fabric-1.21.0-4.jar",
@@ -929,6 +944,11 @@
             "path": "mods/watut-fabric-1.21.0-1.2.7.jar",
             "hash": "00d9b67556a85016edab41e05443a5a9",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/watut-fabric-1.21.0-1.2.7.jar"
+        },
+        {
+            "path": "mods/yet_another_config_lib_v3-3.8.2+1.21.1-fabric (1).jar",
+            "hash": "aadf11f5a793296be7c195e1ca388492",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/yet_another_config_lib_v3-3.8.2+1.21.1-fabric (1).jar"
         },
         {
             "path": "mods/yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
