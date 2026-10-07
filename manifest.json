@@ -21,9 +21,9 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/BiomesOPlenty-fabric-1.21.1-21.1.0.14.jar"
         },
         {
-            "path": "mods/capturexp-fabric-1.8.0-1.3.0.jar",
-            "hash": "d5ebea7a34439430fb52dfe8bb12e2c1",
-            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/capturexp-fabric-1.8.0-1.3.0.jar"
+            "path": "mods/capturexp-fabric-1.8.1-1.3.0.jar",
+            "hash": "02947bc26913b7710d626cf09c7f13be",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/capturexp-fabric-1.8.1-1.3.0.jar"
         },
         {
             "path": "mods/chatanimation-fabric-1.3.3+mc1.21.jar",
@@ -96,9 +96,14 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobblemon-pasturecollector-fabric-1.8.1-1.4.1.jar"
         },
         {
-            "path": "mods/cobblemon-trainer-battle-1.11.13+1.8.0.jar",
-            "hash": "51b08deb02e8f3f5912e77341a945a4b",
-            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobblemon-trainer-battle-1.11.13+1.8.0.jar"
+            "path": "mods/cobblemon-trainer-battle-1.11.13+1.8.1.jar",
+            "hash": "5b912cd3fc6abe51639faedf9d7adb26",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobblemon-trainer-battle-1.11.13+1.8.1.jar"
+        },
+        {
+            "path": "mods/cobblemonraiddens-fabric-0.13.0+1.21.1.jar",
+            "hash": "3d150d75205c8642baa903fb2af79eb6",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobblemonraiddens-fabric-0.13.0+1.21.1.jar"
         },
         {
             "path": "mods/CobblemonWikiGui-fabric-2.7.0+1.21.1.jar",
@@ -409,11 +414,6 @@
             "path": "mods/TerraBlender-fabric-1.21.1-4.1.0.8.jar",
             "hash": "c82218938313a31a2e7d55028fe97e3a",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/TerraBlender-fabric-1.21.1-4.1.0.8.jar"
-        },
-        {
-            "path": "mods/timcore-fabric-1.8.0-1.32.0.jar",
-            "hash": "ef752f8b0e861184f5471c9c46328c0b",
-            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/timcore-fabric-1.8.0-1.32.0.jar"
         },
         {
             "path": "mods/timcore-fabric-1.8.1-1.33.2.jar",
@@ -571,9 +571,9 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/BiomesOPlenty-fabric-1.21.1-21.1.0.14.jar"
         },
         {
-            "path": "mods/capturexp-fabric-1.8.0-1.3.0.jar",
-            "hash": "d5ebea7a34439430fb52dfe8bb12e2c1",
-            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/capturexp-fabric-1.8.0-1.3.0.jar"
+            "path": "mods/capturexp-fabric-1.8.1-1.3.0.jar",
+            "hash": "02947bc26913b7710d626cf09c7f13be",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/capturexp-fabric-1.8.1-1.3.0.jar"
         },
         {
             "path": "mods/chatanimation-fabric-1.3.3+mc1.21.jar",
@@ -646,9 +646,14 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobblemon-pasturecollector-fabric-1.8.1-1.4.1.jar"
         },
         {
-            "path": "mods/cobblemon-trainer-battle-1.11.13+1.8.0.jar",
-            "hash": "51b08deb02e8f3f5912e77341a945a4b",
-            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobblemon-trainer-battle-1.11.13+1.8.0.jar"
+            "path": "mods/cobblemon-trainer-battle-1.11.13+1.8.1.jar",
+            "hash": "5b912cd3fc6abe51639faedf9d7adb26",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobblemon-trainer-battle-1.11.13+1.8.1.jar"
+        },
+        {
+            "path": "mods/cobblemonraiddens-fabric-0.13.0+1.21.1.jar",
+            "hash": "3d150d75205c8642baa903fb2af79eb6",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobblemonraiddens-fabric-0.13.0+1.21.1.jar"
         },
         {
             "path": "mods/CobblemonWikiGui-fabric-2.7.0+1.21.1.jar",
@@ -959,11 +964,6 @@
             "path": "mods/TerraBlender-fabric-1.21.1-4.1.0.8.jar",
             "hash": "c82218938313a31a2e7d55028fe97e3a",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/TerraBlender-fabric-1.21.1-4.1.0.8.jar"
-        },
-        {
-            "path": "mods/timcore-fabric-1.8.0-1.32.0.jar",
-            "hash": "ef752f8b0e861184f5471c9c46328c0b",
-            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/timcore-fabric-1.8.0-1.32.0.jar"
         },
         {
             "path": "mods/timcore-fabric-1.8.1-1.33.2.jar",
