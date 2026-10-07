@@ -91,6 +91,11 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobblemon-legendary-structures-2.2.jar"
         },
         {
+            "path": "mods/cobblemon-pasturecollector-fabric-1.8.1-1.4.1.jar",
+            "hash": "2127f91cc69d8239df28233e113ffb4b",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobblemon-pasturecollector-fabric-1.8.1-1.4.1.jar"
+        },
+        {
             "path": "mods/cobblemon-trainer-battle-1.11.13+1.8.0.jar",
             "hash": "51b08deb02e8f3f5912e77341a945a4b",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobblemon-trainer-battle-1.11.13+1.8.0.jar"
@@ -101,9 +106,19 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/CobblemonWikiGui-fabric-2.7.0+1.21.1.jar"
         },
         {
+            "path": "mods/cobblemon_tp_pastures-1.21.1-1.3.0.jar",
+            "hash": "0d9dd0d31a1db6c71480b0588055ec87",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobblemon_tp_pastures-1.21.1-1.3.0.jar"
+        },
+        {
             "path": "mods/cobblenav-fabric-2.4.1.jar",
             "hash": "0b177285713feaa8e2671299b132941a",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobblenav-fabric-2.4.1.jar"
+        },
+        {
+            "path": "mods/cobbleworkers-fabric-2.0.5+1.8.0.jar",
+            "hash": "7d23c9b99f36153438f2d587b66f734f",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobbleworkers-fabric-2.0.5+1.8.0.jar"
         },
         {
             "path": "mods/collective-1.21.1-8.41.jar",
@@ -119,6 +134,11 @@
             "path": "mods/customplayerheads-2.1.0.jar",
             "hash": "4a3eb851c2986d38a2959ce3ca54401e",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/customplayerheads-2.1.0.jar"
+        },
+        {
+            "path": "mods/droploottables-fabric-1.8.1-1.9.3.jar",
+            "hash": "1ca25f7f560710e320f6fe58ca17ef03",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/droploottables-fabric-1.8.1-1.9.3.jar"
         },
         {
             "path": "mods/easyauth-mc1.21-3.4.4.jar",
@@ -264,6 +284,11 @@
             "path": "mods/particle-rain-3.0.5.jar",
             "hash": "bdf9694e423ee6615f2bca875cf40409",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/particle-rain-3.0.5.jar"
+        },
+        {
+            "path": "mods/pastureLoot-1.0.5+1.21.1.jar",
+            "hash": "ef3ebf8d082e4af1fb6f54524e8c1f70",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/pastureLoot-1.0.5+1.21.1.jar"
         },
         {
             "path": "mods/placeholder-api-2.4.2+1.21.jar",
@@ -616,6 +641,11 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobblemon-legendary-structures-2.2.jar"
         },
         {
+            "path": "mods/cobblemon-pasturecollector-fabric-1.8.1-1.4.1.jar",
+            "hash": "2127f91cc69d8239df28233e113ffb4b",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobblemon-pasturecollector-fabric-1.8.1-1.4.1.jar"
+        },
+        {
             "path": "mods/cobblemon-trainer-battle-1.11.13+1.8.0.jar",
             "hash": "51b08deb02e8f3f5912e77341a945a4b",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobblemon-trainer-battle-1.11.13+1.8.0.jar"
@@ -626,9 +656,19 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/CobblemonWikiGui-fabric-2.7.0+1.21.1.jar"
         },
         {
+            "path": "mods/cobblemon_tp_pastures-1.21.1-1.3.0.jar",
+            "hash": "0d9dd0d31a1db6c71480b0588055ec87",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobblemon_tp_pastures-1.21.1-1.3.0.jar"
+        },
+        {
             "path": "mods/cobblenav-fabric-2.4.1.jar",
             "hash": "0b177285713feaa8e2671299b132941a",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobblenav-fabric-2.4.1.jar"
+        },
+        {
+            "path": "mods/cobbleworkers-fabric-2.0.5+1.8.0.jar",
+            "hash": "7d23c9b99f36153438f2d587b66f734f",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/cobbleworkers-fabric-2.0.5+1.8.0.jar"
         },
         {
             "path": "mods/collective-1.21.1-8.41.jar",
@@ -644,6 +684,11 @@
             "path": "mods/customplayerheads-2.1.0.jar",
             "hash": "4a3eb851c2986d38a2959ce3ca54401e",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/customplayerheads-2.1.0.jar"
+        },
+        {
+            "path": "mods/droploottables-fabric-1.8.1-1.9.3.jar",
+            "hash": "1ca25f7f560710e320f6fe58ca17ef03",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/droploottables-fabric-1.8.1-1.9.3.jar"
         },
         {
             "path": "mods/easyauth-mc1.21-3.4.4.jar",
@@ -789,6 +834,11 @@
             "path": "mods/particle-rain-3.0.5.jar",
             "hash": "bdf9694e423ee6615f2bca875cf40409",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/particle-rain-3.0.5.jar"
+        },
+        {
+            "path": "mods/pastureLoot-1.0.5+1.21.1.jar",
+            "hash": "ef3ebf8d082e4af1fb6f54524e8c1f70",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/pastureLoot-1.0.5+1.21.1.jar"
         },
         {
             "path": "mods/placeholder-api-2.4.2+1.21.jar",
