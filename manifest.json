@@ -276,6 +276,11 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/notenoughanimations-fabric-1.12.4-mc1.21.1.jar"
         },
         {
+            "path": "mods/online-patpat-1.1.jar",
+            "hash": "f94e341e71e5258fd73670264c7afacf",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/online-patpat-1.1.jar"
+        },
+        {
             "path": "mods/owo-lib-0.13.0-alpha.15+1.21.jar",
             "hash": "a3eb2ecafeb4bc1fb453b13cb43a12c1",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/owo-lib-0.13.0-alpha.15+1.21.jar"
@@ -294,6 +299,11 @@
             "path": "mods/pastureLoot-1.0.5+1.21.1.jar",
             "hash": "ef3ebf8d082e4af1fb6f54524e8c1f70",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/pastureLoot-1.0.5+1.21.1.jar"
+        },
+        {
+            "path": "mods/PatPat-1.3.1+1.21.1+fabric.jar",
+            "hash": "f13b30317cb12eef41cac8c039186d83",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/PatPat-1.3.1+1.21.1+fabric.jar"
         },
         {
             "path": "mods/placeholder-api-2.4.2+1.21.jar",
@@ -826,6 +836,11 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/notenoughanimations-fabric-1.12.4-mc1.21.1.jar"
         },
         {
+            "path": "mods/online-patpat-1.1.jar",
+            "hash": "f94e341e71e5258fd73670264c7afacf",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/online-patpat-1.1.jar"
+        },
+        {
             "path": "mods/owo-lib-0.13.0-alpha.15+1.21.jar",
             "hash": "a3eb2ecafeb4bc1fb453b13cb43a12c1",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/owo-lib-0.13.0-alpha.15+1.21.jar"
@@ -844,6 +859,11 @@
             "path": "mods/pastureLoot-1.0.5+1.21.1.jar",
             "hash": "ef3ebf8d082e4af1fb6f54524e8c1f70",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/pastureLoot-1.0.5+1.21.1.jar"
+        },
+        {
+            "path": "mods/PatPat-1.3.1+1.21.1+fabric.jar",
+            "hash": "f13b30317cb12eef41cac8c039186d83",
+            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/PatPat-1.3.1+1.21.1+fabric.jar"
         },
         {
             "path": "mods/placeholder-api-2.4.2+1.21.jar",
