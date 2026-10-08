@@ -276,11 +276,6 @@
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/notenoughanimations-fabric-1.12.4-mc1.21.1.jar"
         },
         {
-            "path": "mods/online-patpat-1.1.jar",
-            "hash": "f94e341e71e5258fd73670264c7afacf",
-            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/online-patpat-1.1.jar"
-        },
-        {
             "path": "mods/owo-lib-0.13.0-alpha.15+1.21.jar",
             "hash": "a3eb2ecafeb4bc1fb453b13cb43a12c1",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/owo-lib-0.13.0-alpha.15+1.21.jar"
@@ -834,11 +829,6 @@
             "path": "mods/notenoughanimations-fabric-1.12.4-mc1.21.1.jar",
             "hash": "6afb17a78bec2140a3904dcd6d1a3d92",
             "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/notenoughanimations-fabric-1.12.4-mc1.21.1.jar"
-        },
-        {
-            "path": "mods/online-patpat-1.1.jar",
-            "hash": "f94e341e71e5258fd73670264c7afacf",
-            "url": "https://raw.githubusercontent.com/Dibor2000/MC-Server-Files-New/main/mods/online-patpat-1.1.jar"
         },
         {
             "path": "mods/owo-lib-0.13.0-alpha.15+1.21.jar",
